@@ -1,3 +1,3 @@
 # HousePricePredictionApp!
 
-[Ekran görüntüsü 2022-01-29 165550](https://user-images.githubusercontent.com/58051004/151663845-f1bbcab0-f00d-4275-aadc-ef51b9b956da.png)
+![Ekran görüntüsü 2022-01-29 165550](https://user-images.githubusercontent.com/58051004/151663875-fab199e9-b25d-4fc5-95e6-df58f1d998d7.png)
